@@ -1,4 +1,4 @@
->## Criando um efeito ao passar o mouse por cima dos cards
+>## Criando efeito ao passar o mouse por cima dos cards
 
 ## Font
 Tutorial do canal Online Tutorials
