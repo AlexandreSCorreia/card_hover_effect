@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
   Card hover effect
 </h1>
@@ -29,6 +30,9 @@ Este projeto foi feito com as seguintes tecnologias:
 </br>
 
 :computer: Link do tutorial seguido : [Canal no Youtube - Online Tutorials](https://www.youtube.com/watch?v=ltxxNidblts)
+=======
+>## Criando efeito ao passar o mouse por cima dos cards
+>>>>>>> 8ee4b7a7cc033bcfcffddb956145bbd048bc3190
 
 
 
